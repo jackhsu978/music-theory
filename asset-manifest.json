@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/music-theory/static/css/main.d93b9676.chunk.css",
+    "main.js": "/music-theory/static/js/main.8a9f0e55.chunk.js",
+    "main.js.map": "/music-theory/static/js/main.8a9f0e55.chunk.js.map",
+    "runtime-main.js": "/music-theory/static/js/runtime-main.7a4b4a5d.js",
+    "runtime-main.js.map": "/music-theory/static/js/runtime-main.7a4b4a5d.js.map",
+    "static/js/2.00fa5de4.chunk.js": "/music-theory/static/js/2.00fa5de4.chunk.js",
+    "static/js/2.00fa5de4.chunk.js.map": "/music-theory/static/js/2.00fa5de4.chunk.js.map",
+    "index.html": "/music-theory/index.html",
+    "precache-manifest.481773d87dea2e156548eedbe52d8f38.js": "/music-theory/precache-manifest.481773d87dea2e156548eedbe52d8f38.js",
+    "service-worker.js": "/music-theory/service-worker.js",
+    "static/css/main.d93b9676.chunk.css.map": "/music-theory/static/css/main.d93b9676.chunk.css.map",
+    "static/js/2.00fa5de4.chunk.js.LICENSE.txt": "/music-theory/static/js/2.00fa5de4.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7a4b4a5d.js",
+    "static/js/2.00fa5de4.chunk.js",
+    "static/css/main.d93b9676.chunk.css",
+    "static/js/main.8a9f0e55.chunk.js"
+  ]
+}
